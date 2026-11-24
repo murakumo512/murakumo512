@@ -30,7 +30,7 @@ I am Mardonius 'Riel' from Yogyakarta, Indonesia who is a Network Engineer and D
     <img src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" alt="Facebook" width="50" height="50">
   </a>
   <a href="https://www.instagram.com/mardonius.riel/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Instagram" width="50" height="50">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1280px-Instagram_logo_2022.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Instagram" width="50" height="50">
   </a>
   <a href="https://discord.gg/cKKs3kv">
     <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="Discord" width="50" height="50">
